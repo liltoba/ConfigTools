@@ -1,0 +1,9 @@
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\bin\Release\ConfigTools.exe.config
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\bin\Release\ConfigTools.exe
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\bin\Release\ConfigTools.pdb
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\obj\Release\ConfigTools.Form1.resources
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\obj\Release\ConfigTools.Properties.Resources.resources
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\obj\Release\ConfigTools.csproj.GenerateResource.cache
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\obj\Release\ConfigTools.csproj.CoreCompileInputs.cache
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\obj\Release\ConfigTools.exe
+C:\Users\Arshian\Desktop\ConfigTools\ConfigTools\obj\Release\ConfigTools.pdb

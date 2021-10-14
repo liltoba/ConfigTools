@@ -1,0 +1,10 @@
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\bin\Debug\ConfigTools.exe.config
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\bin\Debug\ConfigTools.exe
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\bin\Debug\ConfigTools.pdb
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.csproj.AssemblyReference.cache
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.Properties.Resources.resources
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.csproj.GenerateResource.cache
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.csproj.CoreCompileInputs.cache
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.exe
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.pdb
+C:\Users\Arshian\source\repos\ConfigTools\ConfigTools\obj\Debug\ConfigTools.Form1.resources
