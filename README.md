@@ -1,6 +1,6 @@
 # 🔥🔥 ConfigTools 🔥🔥
 Config Tools For OpenBullet &amp; CyberBullet Configs
-![Screenshot 2021-10-01 201303](https://user-images.githubusercontent.com/59983513/135661020-6283de13-4433-42a0-9a31-42d0f189c291.jpg)
+![Screenshot 2021-10-01 201303](https://i.imgur.com/byZwKGn.jpg)
 
 
 # 💎 Open Source Project
